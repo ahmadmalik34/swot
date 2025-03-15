@@ -225,7 +225,6 @@ baypath.edu
 bcmail.cuny.edu
 bellevuecollege.edu
 bereabeautyacademy.edu
-binghamton.edu
 brandeis.edu
 buc.blinn.edu
 bucs.fsw.edu
@@ -1379,3 +1378,4 @@ uem.edu.in
 uacj.mx
 stu.ocsb.ca
 um5.ac.ma
+fmu.edu.br
